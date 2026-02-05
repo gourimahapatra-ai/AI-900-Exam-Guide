@@ -26,6 +26,8 @@ I have been exploring a lot of resources for the AI-900 exam, especially to cram
 
 The Azure AI-900 exam has evolved over the years, with recent additions such as Generative AI, making it essential to prepare accordingly.
 
+## Practice Questions : https://kaustubhsharma.com/quiz/Microsoft%20Azure%20AI-900
+
 ### Recommended Strategy
 
 1. **Official Learning Path:** Begin with the [official learning path](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900) from Microsoft for a comprehensive overview of the exam topics.
