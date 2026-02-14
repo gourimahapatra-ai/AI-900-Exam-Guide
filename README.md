@@ -77,8 +77,6 @@ You can get a pdf version of this repository for offline access by clicking [her
 
 ## My Outcome
 
-I took CS50 AI, AI and DS as part of my academic degree and learned a lot from online resources as a self-learner. Therefore, it was easy for me to cram and score 871/100, surpassing the passing score of 700. Although I didn't go through the official learning path, I did review the official practice tests and the questions from my notes.
-
 ## Certificate
 
 
